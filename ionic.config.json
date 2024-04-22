@@ -1,0 +1,7 @@
+{
+  "name": "CapGeoTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
